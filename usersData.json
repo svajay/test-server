@@ -1,34 +1,32 @@
-[
-  {
-    "profiles": [
-      {
-        "name": "Ajay Pradhan",
-        "instaHandel": "ajay.pradhan02",
-        "emailID": "ajay.pradhan@spoxtale.com",
-        "website": "https://www.2pointoh.in",
-        "socialmedia": "https://www.instagram.com/2.oh_india"
-      },
-      {
-        "name": "Usman Khan",
-        "instaHandel": "usman khan",
-        "emailID": "usman@spoxtale.com",
-        "website": "https://www.2pointoh.in",
-        "socialmedia": "https://www.instagram.com/2.oh_india"
-      },
-      {
-        "name": "Shantanu singh",
-        "instaHandel": "shantanu.singh",
-        "emailID": "shantanu.singh@spoxtale.com",
-        "website": "https://www.2pointoh.in",
-        "socialmedia": "https://www.instagram.com/2.oh_india"
-      },
-      {
-        "name": "Aditya Verma",
-        "instaHandel": "aditya.verma",
-        "emailID": "aditya.verma@spoxtale.com",
-        "website": "https://www.2pointoh.in",
-        "socialmedia": "https://www.instagram.com/2.oh_india"
-      }
-    ]
-  }
-]
+{
+  "profiles": [
+    {
+      "name": "Ajay Pradhan",
+      "instaHandel": "ajay.pradhan02",
+      "emailID": "ajay.pradhan@spoxtale.com",
+      "website": "https://www.2pointoh.in",
+      "socialmedia": "https://www.instagram.com/2.oh_india"
+    },
+    {
+      "name": "Usman Khan",
+      "instaHandel": "usman khan",
+      "emailID": "usman@spoxtale.com",
+      "website": "https://www.2pointoh.in",
+      "socialmedia": "https://www.instagram.com/2.oh_india"
+    },
+    {
+      "name": "Shantanu singh",
+      "instaHandel": "shantanu.singh",
+      "emailID": "shantanu.singh@spoxtale.com",
+      "website": "https://www.2pointoh.in",
+      "socialmedia": "https://www.instagram.com/2.oh_india"
+    },
+    {
+      "name": "Aditya Verma",
+      "instaHandel": "aditya.verma",
+      "emailID": "aditya.verma@spoxtale.com",
+      "website": "https://www.2pointoh.in",
+      "socialmedia": "https://www.instagram.com/2.oh_india"
+    }
+  ]
+}
