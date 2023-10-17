@@ -2,35 +2,390 @@
   "profiles": [
     {
       "_id": 1,
-      "name": "Ajay Pradhan",
-      "insta_handle": "ajay.pradhan02",
-      "email": "ajay.pradhan@spoxtale.com",
-      "website_rebrandly": "https://www.2pointoh.in",
-      "insta_rebrandly": "https://www.instagram.com/2.oh_india"
+      "name": "Abhipsa Dash",
+      "email": "abhipsadash68@gmail.com",
+      "insta_handle": "l_o_r_i_ii",
+      "website_rebrandly": "https://app.campustales.in/Abhipsa-Dash-web",
+      "insta_rebrandly": "https://app.campustales.in/Abhipsa-Dash-social",
+      "coupon_code": "L_O_R_I_II"
     },
     {
       "_id": 2,
-      "name": "Usman Khan",
-      "insta_handle": "usman.khan",
-      "email": "usman@spoxtale.com",
-      "website_rebrandly": "https://www.2pointoh.in",
-      "insta_rebrandly": "https://www.instagram.com/2.oh_india"
+      "name": "Amrita Das",
+      "email": "amritaaadas@gmail.com",
+      "insta_handle": "amritaa.x",
+      "website_rebrandly": "https://app.campustales.in/Amrita-Das-web",
+      "insta_rebrandly": "https://app.campustales.in/Amrita-Das-social",
+      "coupon_code": "AMRITAA.X"
     },
     {
       "_id": 3,
-      "name": "Shantanu singh",
-      "insta_handle": "shantanu.singh",
-      "email": "shantanu.singh@spoxtale.com",
-      "website_rebrandly": "https://www.2pointoh.in",
-      "insta_rebrandly": "https://www.instagram.com/2.oh_india"
+      "name": "Anchita Niranjan Chavan ",
+      "email": "anchitachavan25@gmail.com",
+      "insta_handle": "anchitachavan",
+      "website_rebrandly": "https://app.campustales.in/Anchita-Niranjan-Chavan-web",
+      "insta_rebrandly": "https://app.campustales.in/Anchita-Niranjan-Chavan-social",
+      "coupon_code": "ANCHITACHAVAN"
     },
     {
       "_id": 4,
-      "name": "Aditya Verma",
-      "insta_handle": "aditya.verma",
-      "email": "aditya.verma@spoxtale.com",
-      "website_rebrandly": "https://www.2pointoh.in",
-      "insta_rebrandly": "https://www.instagram.com/2.oh_india"
+      "name": "Anindi Gupta ",
+      "email": "anindigupta2003@gmail.com",
+      "insta_handle": "__aniindii",
+      "website_rebrandly": "https://app.campustales.in/Anindi-Gupta-web",
+      "insta_rebrandly": "https://app.campustales.in/Anindi-Gupta-social",
+      "coupon_code": "__ANIINDII"
+    },
+    {
+      "_id": 5,
+      "name": "Aparna Sinha",
+      "email": "sinha.aparna88@gmail.com",
+      "insta_handle": "aparnasinhahaha",
+      "website_rebrandly": "https://app.campustales.in/Aparna-Sinha-web",
+      "insta_rebrandly": "https://app.campustales.in/Aparna-Sinha-social",
+      "coupon_code": "APARNASINHAHAHA"
+    },
+    {
+      "_id": 6,
+      "name": "Arunabha dutta",
+      "email": "arunabdatt@gmail.com",
+      "insta_handle": "thesolostyler ",
+      "website_rebrandly": "https://app.campustales.in/Arunabha-dutta-web",
+      "insta_rebrandly": "https://app.campustales.in/Arunabha-dutta-social",
+      "coupon_code": "THESOLOSTYLER "
+    },
+    {
+      "_id": 7,
+      "name": "Arya Krishnan ",
+      "email": "krishnanarya308@gmail.com",
+      "insta_handle": "1lyarya",
+      "website_rebrandly": "https://app.campustales.in/Arya-Krishnan-web",
+      "insta_rebrandly": "https://app.campustales.in/Arya-Krishnan-social",
+      "coupon_code": "1LYARYA"
+    },
+    {
+      "_id": 8,
+      "name": "Bianca Falcao",
+      "email": "biancafalcao1717@gmail.com",
+      "insta_handle": "bianca__falcao",
+      "website_rebrandly": "https://app.campustales.in/Bianca-Falcao-web",
+      "insta_rebrandly": "https://app.campustales.in/Bianca-Falcao-social",
+      "coupon_code": "BIANCA__FALCAO"
+    },
+    {
+      "_id": 9,
+      "name": "Dimple Boro",
+      "email": "dimpleboro90@gmail.com",
+      "insta_handle": "_db_boro_",
+      "website_rebrandly": "https://app.campustales.in/Dimple-Boro-web",
+      "insta_rebrandly": "https://app.campustales.in/Dimple-Boro-social",
+      "coupon_code": "_DB_BORO_"
+    },
+    {
+      "_id": 10,
+      "name": "Dipasha Bankar ",
+      "email": "dipasha.c10@gmail.com",
+      "insta_handle": "dipaasha_",
+      "website_rebrandly": "https://app.campustales.in/Dipasha-Bankar-web",
+      "insta_rebrandly": "https://app.campustales.in/Dipasha-Bankar-social",
+      "coupon_code": "DIPAASHA_"
+    },
+    {
+      "_id": 11,
+      "name": "Dipshikha Chetia ",
+      "email": "dipshi0053@gmail.com",
+      "insta_handle": "miss_madnessss",
+      "website_rebrandly": "https://app.campustales.in/Dipshikha-Chetia-web",
+      "insta_rebrandly": "https://app.campustales.in/Dipshikha-Chetia-social",
+      "coupon_code": "MISS_MADNESSSS"
+    },
+    {
+      "_id": 12,
+      "name": "Disha Bardoloi ",
+      "email": "disha.bardoloi@gmail.com",
+      "insta_handle": "dishkoosh_7",
+      "website_rebrandly": "https://app.campustales.in/Disha-Bardoloi-web",
+      "insta_rebrandly": "https://app.campustales.in/Disha-Bardoloi-social",
+      "coupon_code": "DISHKOOSH_7"
+    },
+    {
+      "_id": 13,
+      "name": "Doly Ramchiary ",
+      "email": "ramchiarydoly@gmail.com",
+      "insta_handle": "dolyramchiary_3",
+      "website_rebrandly": "https://app.campustales.in/Doly-Ramchiary-web",
+      "insta_rebrandly": "https://app.campustales.in/Doly-Ramchiary-social",
+      "coupon_code": "DOLYRAMCHIARY_3"
+    },
+    {
+      "_id": 14,
+      "name": "Dr Ispita Roy",
+      "email": "ispita.roy51@gmail.com",
+      "insta_handle": "thebugofstyle ",
+      "website_rebrandly": "https://app.campustales.in/Ispita-Roy-web",
+      "insta_rebrandly": "https://app.campustales.in/Ispita-Roy-social",
+      "coupon_code": "THEBUGOFSTYLE "
+    },
+    {
+      "_id": 15,
+      "name": "Harshal Gupta ",
+      "email": "guptaharshal64@gmail.com",
+      "insta_handle": "haruphotography__",
+      "website_rebrandly": "https://app.campustales.in/Harshal-Gupta-web",
+      "insta_rebrandly": "https://app.campustales.in/Harshal-Gupta-social",
+      "coupon_code": "HARUPHOTOGRAPHY__"
+    },
+    {
+      "_id": 16,
+      "name": "Harshita ahuja ",
+      "email": "harshitaahujadolly121@gmail.com",
+      "insta_handle": "harshitaaahuja",
+      "website_rebrandly": "https://app.campustales.in/Harshita-ahuja-web",
+      "insta_rebrandly": "https://app.campustales.in/Harshita-ahuja-social",
+      "coupon_code": "HARSHITAAAHUJA"
+    },
+    {
+      "_id": 17,
+      "name": "hetvi ward",
+      "email": "wardhetvi18@gmail.com",
+      "insta_handle": "hetvi_ward06",
+      "website_rebrandly": "https://app.campustales.in/hetvi-ward-web",
+      "insta_rebrandly": "https://app.campustales.in/hetvi-ward-social",
+      "coupon_code": "HETVI_WARD06"
+    },
+    {
+      "_id": 18,
+      "name": "Jayita Poddar",
+      "email": "jayitapoddar031@gmail.com",
+      "insta_handle": "actualizada_vida",
+      "website_rebrandly": "https://app.campustales.in/Jayita-Poddar-web",
+      "insta_rebrandly": "https://app.campustales.in/Jayita-Poddar-social",
+      "coupon_code": "ACTUALIZADA_VIDA"
+    },
+    {
+      "_id": 19,
+      "name": "Kashish sankhla ",
+      "email": "sankhlakashish5@gmail.com",
+      "insta_handle": "kashishhsankhla",
+      "website_rebrandly": "https://app.campustales.in/Kashish-sankhla-web",
+      "insta_rebrandly": "https://app.campustales.in/Kashish-sankhla-social",
+      "coupon_code": "KASHISHHSANKHLA"
+    },
+    {
+      "_id": 20,
+      "name": "Kathryne Doley",
+      "email": "kathrynedoleyy@gmail.com",
+      "insta_handle": "kathryne.doley",
+      "website_rebrandly": "https://app.campustales.in/Kathryne-Doley-web",
+      "insta_rebrandly": "https://app.campustales.in/Kathryne-Doley-social",
+      "coupon_code": "KATHRYNE.DOLEY"
+    },
+    {
+      "_id": 21,
+      "name": "Kavya krishnan",
+      "email": "krishnankavya602@gmail.com",
+      "insta_handle": "kavyaaakrishnan",
+      "website_rebrandly": "https://app.campustales.in/Kavya-krishnan-web",
+      "insta_rebrandly": "https://app.campustales.in/Kavya-krishnan-social",
+      "coupon_code": "KAVYAAAKRISHNAN"
+    },
+    {
+      "_id": 22,
+      "name": "Khushi Pardasani",
+      "email": "khushipardasani28@gmail.com",
+      "insta_handle": "khushi_pardasani",
+      "website_rebrandly": "https://app.campustales.in/Khushi-Pardasani-web",
+      "insta_rebrandly": "https://app.campustales.in/Khushi-Pardasani-social",
+      "coupon_code": "KHUSHI_PARDASANI"
+    },
+    {
+      "_id": 23,
+      "name": "Krupa Laxmikant Joshi ",
+      "email": "krupajoshi0909@gmail.com",
+      "insta_handle": "krupaajoshii ",
+      "website_rebrandly": "https://app.campustales.in/Krupa-Laxmikant-Joshi-web",
+      "insta_rebrandly": "https://app.campustales.in/Krupa-Laxmikant-Joshi-social",
+      "coupon_code": "KRUPAAJOSHII "
+    },
+    {
+      "_id": 24,
+      "name": "Mansi Peshwani",
+      "email": "mancce.peshwani@gmail.com",
+      "insta_handle": "_mancce_",
+      "website_rebrandly": "https://app.campustales.in/Mansi-Peshwani-web",
+      "insta_rebrandly": "https://app.campustales.in/Mansi-Peshwani-social",
+      "coupon_code": "_MANCCE_"
+    },
+    {
+      "_id": 25,
+      "name": "Medhini",
+      "email": "medhinisingh72@gmail.com",
+      "insta_handle": "whatmedhwears",
+      "website_rebrandly": "https://app.campustales.in/Medhini-web",
+      "insta_rebrandly": "https://app.campustales.in/Medhini-social",
+      "coupon_code": "WHATMEDHWEARS"
+    },
+    {
+      "_id": 26,
+      "name": "Niharika Bindal ",
+      "email": "pinkbunnie08@gmail.com",
+      "insta_handle": "pinkbunnie__",
+      "website_rebrandly": "https://app.campustales.in/Niharika-Bindal-web",
+      "insta_rebrandly": "https://app.campustales.in/Niharika-Bindal-social",
+      "coupon_code": "PINKBUNNIE__"
+    },
+    {
+      "_id": 27,
+      "name": "Rajlaxmi Wankhede ",
+      "email": "rajlaxmiwankhede622@gmail.com",
+      "insta_handle": "rajlaxmiiii4_",
+      "website_rebrandly": "https://app.campustales.in/Rajlaxmi-Wankhede-web",
+      "insta_rebrandly": "https://app.campustales.in/Rajlaxmi-Wankhede-social",
+      "coupon_code": "RAJLAXMIIII4_"
+    },
+    {
+      "_id": 28,
+      "name": "Rishika Hirani",
+      "email": "rishikahirani01@gmail.com",
+      "insta_handle": "rishikaaxo",
+      "website_rebrandly": "https://app.campustales.in/Rishika-Hirani-web",
+      "insta_rebrandly": "https://app.campustales.in/Rishika-Hirani-social",
+      "coupon_code": "RISHIKAAXO"
+    },
+    {
+      "_id": 29,
+      "name": "Riya nagpal",
+      "email": "riya.nagpal@ssla.edu.in",
+      "insta_handle": "rianagpal_",
+      "website_rebrandly": "https://app.campustales.in/Riya-nagpal-web",
+      "insta_rebrandly": "https://app.campustales.in/Riya-nagpal-social",
+      "coupon_code": "RIANAGPAL_"
+    },
+    {
+      "_id": 30,
+      "name": "Rukmini Chanda",
+      "email": "chandarukmini9@gmail.com",
+      "insta_handle": "mini._.03",
+      "website_rebrandly": "https://app.campustales.in/Rukmini-Chanda-web",
+      "insta_rebrandly": "https://app.campustales.in/Rukmini-Chanda-social",
+      "coupon_code": "MINI._.03"
+    },
+    {
+      "_id": 31,
+      "name": "Samriddhi Sharma",
+      "email": "samriddhi.work27@gmail.com",
+      "insta_handle": "samriddhiisharma",
+      "website_rebrandly": "https://app.campustales.in/Samriddhi-Sharma-web",
+      "insta_rebrandly": "https://app.campustales.in/Samriddhi-Sharma-social",
+      "coupon_code": "SAMRIDDHIISHARMA"
+    },
+    {
+      "_id": 32,
+      "name": "Samriddhi Sharma ",
+      "email": "samriddhiwork3@gmail.com",
+      "insta_handle": "samriddhii.7",
+      "website_rebrandly": "https://app.campustales.in/Samriddhi-Sharma-web",
+      "insta_rebrandly": "https://app.campustales.in/Samriddhi-Sharma-social",
+      "coupon_code": "SAMRIDDHII.7"
+    },
+    {
+      "_id": 33,
+      "name": "Samriddhi Singh",
+      "email": "samriddhisingh213@gmail.com",
+      "insta_handle": "_sammm_what",
+      "website_rebrandly": "https://app.campustales.in/Samriddhi-Singh-web",
+      "insta_rebrandly": "https://app.campustales.in/Samriddhi-Singh-social",
+      "coupon_code": "_SAMMM_WHAT"
+    },
+    {
+      "_id": 34,
+      "name": "Shivani Panda",
+      "email": "shivanipanda.1999@gmail.com",
+      "insta_handle": "she____vani",
+      "website_rebrandly": "https://app.campustales.in/Shivani-Panda-web",
+      "insta_rebrandly": "https://app.campustales.in/Shivani-Panda-social",
+      "coupon_code": "SHE____VANI"
+    },
+    {
+      "_id": 35,
+      "name": "Shraavani",
+      "email": "shraavani2503@gmail.com",
+      "insta_handle": "shraavani___",
+      "website_rebrandly": "https://app.campustales.in/Shraavani-web",
+      "insta_rebrandly": "https://app.campustales.in/Shraavani-social",
+      "coupon_code": "SHRAAVANI___"
+    },
+    {
+      "_id": 36,
+      "name": "Shraddha Saxena ",
+      "email": "shraddhasaxena026@gmail.com",
+      "insta_handle": "_.shraddha.saxena._",
+      "website_rebrandly": "https://app.campustales.in/Shraddha-Saxena-web",
+      "insta_rebrandly": "https://app.campustales.in/Shraddha-Saxena-social",
+      "coupon_code": "_.SHRADDHA.SAXENA._"
+    },
+    {
+      "_id": 37,
+      "name": "Simran Singh ",
+      "email": "itssimran922@gmail.com",
+      "insta_handle": "heyy.simmi21",
+      "website_rebrandly": "https://app.campustales.in/Simran-Singh-web",
+      "insta_rebrandly": "https://app.campustales.in/Simran-Singh-social",
+      "coupon_code": "HEYY.SIMMI21"
+    },
+    {
+      "_id": 38,
+      "name": "Snehal Vijay Salunkhe ",
+      "email": "snehalsalunkhe412@gmail.com",
+      "insta_handle": "snehuzzz_magic_",
+      "website_rebrandly": "https://app.campustales.in/Snehal-Vijay-Salunkhe-web",
+      "insta_rebrandly": "https://app.campustales.in/Snehal-Vijay-Salunkhe-social",
+      "coupon_code": "SNEHUZZZ_MAGIC_"
+    },
+    {
+      "_id": 39,
+      "name": "Suhani Khandelwal ",
+      "email": "suhanikhandelwal027@gmail.com",
+      "insta_handle": "suhani_onli",
+      "website_rebrandly": "https://app.campustales.in/Suhani-Khandelwal-web",
+      "insta_rebrandly": "https://app.campustales.in/Suhani-Khandelwal-social",
+      "coupon_code": "SUHANI_ONLI"
+    },
+    {
+      "_id": 40,
+      "name": "Tushitaa Chhughani",
+      "email": "vsrivastava174@gmail.com",
+      "insta_handle": "__tushitaaaa__",
+      "website_rebrandly": "https://app.campustales.in/Tushitaa-Chhughani-web",
+      "insta_rebrandly": "https://app.campustales.in/Tushitaa-Chhughani-social",
+      "coupon_code": "__TUSHITAAAA__"
+    },
+    {
+      "_id": 41,
+      "name": "Vandita Pandey ",
+      "email": "vanditapandey13@gmail.com",
+      "insta_handle": "_vpandey",
+      "website_rebrandly": "https://app.campustales.in/Vandita-Pandey-web",
+      "insta_rebrandly": "https://app.campustales.in/Vandita-Pandey-social",
+      "coupon_code": "_VPANDEY"
+    },
+    {
+      "_id": 42,
+      "name": "Vidhi koshta ",
+      "email": "vidhikoshta@gmail.com",
+      "insta_handle": "savi__.x",
+      "website_rebrandly": "https://app.campustales.in/Vidhi-koshta-web",
+      "insta_rebrandly": "https://app.campustales.in/Vidhi-koshta-social",
+      "coupon_code": "SAVI__.X"
+    },
+    {
+      "_id": 43,
+      "name": "Zainab Al Fathima ",
+      "email": "zainabshakkeer@gmail.com",
+      "insta_handle": "zainabshakkeer",
+      "website_rebrandly": "https://app.campustales.in/Zainab-Al-Fathima-web",
+      "insta_rebrandly": "https://app.campustales.in/Zainab-Al-Fathima-social",
+      "coupon_code": "ZAINABSHAKKEER"
     }
   ]
 }

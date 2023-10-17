@@ -1,0 +1,36 @@
+{
+  "profiles": [
+    {
+      "_id": 1,
+      "name": "Ajay Pradhan",
+      "insta_handle": "ajay.pradhan02",
+      "email": "ajay.pradhan@spoxtale.com",
+      "website_rebrandly": "https://www.2pointoh.in",
+      "insta_rebrandly": "https://www.instagram.com/2.oh_india"
+    },
+    {
+      "_id": 2,
+      "name": "Usman Khan",
+      "insta_handle": "usman.khan",
+      "email": "usman@spoxtale.com",
+      "website_rebrandly": "https://www.2pointoh.in",
+      "insta_rebrandly": "https://www.instagram.com/2.oh_india"
+    },
+    {
+      "_id": 3,
+      "name": "Shantanu singh",
+      "insta_handle": "shantanu.singh",
+      "email": "shantanu.singh@spoxtale.com",
+      "website_rebrandly": "https://www.2pointoh.in",
+      "insta_rebrandly": "https://www.instagram.com/2.oh_india"
+    },
+    {
+      "_id": 4,
+      "name": "Aditya Verma",
+      "insta_handle": "aditya.verma",
+      "email": "aditya.verma@spoxtale.com",
+      "website_rebrandly": "https://www.2pointoh.in",
+      "insta_rebrandly": "https://www.instagram.com/2.oh_india"
+    }
+  ]
+}
